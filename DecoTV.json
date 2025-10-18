@@ -16,10 +16,10 @@
     "WL":{"name":"📁卧龙📁","api":"https://collect.wolongzy.cc/api.php/provide/vod"},
     "DB":{"name":"📁豆瓣📁","api":"https://dbzy.tv/api.php/provide/vod"},
     "MD":{"name":"📁魔都📁","api":"https://www.moduzy6.com/api.php/provide/vod"},
-    "AQY":{"name":"📁爱奇艺📁","api":"https://iqiyizy.cc/api.php/provide/vod"},
+    "QY":{"name":"📁奇艺📁","api":"https://iqiyizy.cc/api.php/provide/vod"},
     "YY":{"name":"📁丫丫📁","api":"https://cj.yayazy.net/api.php/provide/vod"},
     "HH":{"name":"📁豪华📁","api":"http://www.haohuazy.com/api.php/provide/vod"},
-    "DY":{"name":"📁电影天堂📁","api":"https://dyttzyw.tv/api.php/provide/vod"},
+    "DY":{"name":"📁天堂📁","api":"https://dyttzyw.tv/api.php/provide/vod"},
     "MT":{"name":"📁茅台📁","api":"https://mtzy.tv/api.php/provide/vod"},
     "HN":{"name":"📁红牛📁","api":"https://www.hongniuzy2.com/api.php/provide/vod"},
     "JS":{"name":"📁极速📁","api":"https://www.jisuzy.com/api.php/provide/vod"},
@@ -33,7 +33,7 @@
     "UK":{"name":"📁U酷📁","api":"https://api.ukuapi88.com/api.php/provide/vod"},
     "YH":{"name":"📁樱花📁","api":"https://yhzy.cc/api.php/provide/vod"},
     "789":{"name":"📁789📁","api":"https://www.caiji.cyou/api.php/provide/vod"},
-    "XMY":{"name":"📁小绵羊📁","api":"https://vs.okcdn100.top/api.php/provide/vod"},
+    "MY":{"name":"📁绵羊📁","api":"https://vs.okcdn100.top/api.php/provide/vod"},
     "JC":{"name":"📁金蝉📁","api":"https://zy.jinchancaiji.com/api.php/provide/vod"}
     
   }
