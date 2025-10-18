@@ -1,7 +1,7 @@
 {
     "urls": [
         {"name": "📁肥猫📁", "url": "http://肥猫.com"},
-        {"name": "📁饭硬📁", "url": "http://www.饭太硬.net/tv"},
+        {"name": "📁饭硬📁", "url": "http://fty.888484.xyz/tv"},
         {"name": "📁小米📁", "url": "http://mitvbox.xyz/小米/DEMO.json"},
         {"name": "📁王二📁", "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"},
         {"name": "📁南风📁", "url": "https://hubproxy.zsyzlahz.dpdns.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
@@ -17,6 +17,7 @@
         {"name": "📁收集📁", "url": "https://tvbox.zsyzlahz.pp.ua:4433/api/tvbox/config?format=json"}
     ]
 }
+
 
 
 
