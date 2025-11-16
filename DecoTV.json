@@ -39,10 +39,10 @@
 
 
     
-    "HL":{"name":"🔞黑料🔞","api":"https://heiliaozyapi.com/api.php/provide/vod"},
-    "SL":{"name":"🔞森林🔞","api":"https://slapibf.com/api.php/provide/vod"},
-    "Banana":{"name":"🔞香蕉🔞","api":"https://www.xiangjiaozyw.com/api.php/provide/vod"},
-    "FH":{"name":"🔞番号资源🔞","api":"http://fhapi9.com/api.php/provide/vod"}
+    "HL":{"name":"🔞黑料🔞","api":"https://heiliaozyapi.com/api.php/provide/vod","is_adult": true},
+    "SL":{"name":"🔞森林🔞","api":"https://slapibf.com/api.php/provide/vod","is_adult": true},
+    "Banana":{"name":"🔞香蕉🔞","api":"https://www.xiangjiaozyw.com/api.php/provide/vod","is_adult": true},
+    "FH":{"name":"🔞番号资源🔞","api":"http://fhapi9.com/api.php/provide/vod","is_adult": true}
     
 
   },
