@@ -14,9 +14,10 @@
         {"name": "📁蜗牛📁", "url": "https://tv.xn--11x555b.top/svip"},
         {"name": "📁残月📁", "url": "https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json"},
         {"name": "📁 OK 📁", "url": "http://ok321.top/tv"},
-        {"name": "📁DecoTV📁", "url": "https://tvbox.zsyzlahz.pp.ua:4433/api/tvbox/config"}
+        {"name": "📁DecoTV📁", "url": "https://tvbox.zsyzlahz.pp.ua:4433/api/tvbox/config?format=json&mode=fast"}
     ]
 }
+
 
 
 
