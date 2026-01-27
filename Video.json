@@ -1,0 +1,70 @@
+{
+  "cache_time": 7200,
+  "api_site": {
+    "dyttzy": {
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "name": "📁猫眼",
+    },
+    "dyttzy2": {
+      "api": "https://tyyszyapi.com/api.php/provide/vod",
+      "name": "📁天涯",
+    },
+    "dyttzy3": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "📁非凡",
+    },
+    "dyttzy4": {
+      "api": "http://xxx.com/api.php/provide/vod",
+      "name": "📁量子",
+    },
+    "dyttzy5": {
+      "api": "https://api.wujinapi.me/api.php/provide/vod",
+      "name": "📁无尽",
+    },
+    "dyttzy6": {
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod",
+      "name": "📁快车",
+    },
+    "dyttzy7": {
+      "api": "http://43.139.196.163:31308/gather/json",
+      "name": "📁人人",
+    },
+    "dyttzy8": {
+      "api": "https://ikunzy.cc/api.php/provide/vod",
+      "name": "📁爱坤",
+    },
+    "dyttzy8": {
+      "api": "https://yhzy.cc/api.php/provide/vod",
+      "name": "📁樱花",
+    },
+
+
+    "dyttzy95": {
+      "api": "https://caiji.semaozy.net/inc/api.php/provide/vod",
+      "name": "🔞色猫",
+    },
+    "dyttzy96": {
+      "api": "https://heiliaozyapi.com/api.php/provide/vod",
+      "name": "🔞黑料",
+    },
+    "dyttzy97": {
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "name": "🔞森林",
+    },
+    "dyttzy98": {
+      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod",
+      "name": "🔞香蕉",
+    },
+    "dyttzy99": {
+      "api": "http://fhapi9.com/api.php/provide/vod",
+      "name": "🔞番号资源",
+    }
+  },
+  "custom_category": [
+    {
+      "name": "华语",
+      "type": "movie",
+      "query": "华语"
+    }
+  ]
+}
