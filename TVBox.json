@@ -4,7 +4,7 @@
         {"name": "饭硬", "url": "http://www.饭太硬.com/tv"},
         {"name": "小米", "url": "http://mitvbox.xyz/小米/DEMO.json"},
         {"name": "王二", "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/"},
-        {"name": "O K", "url": "http://ok213.top/tv"},
+        {"name": "OK", "url": "http://ok213.top/tv"},
         {"name": "巧计", "url": "http://cdn.qiaoji8.com/tvbox.json"},
         {"name": "南风", "url": "https://gh-proxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"},
         {"name": "菜丝", "url": "https://tv.菜妮丝.top"},
@@ -16,6 +16,7 @@
         {"name": "残月", "url": "https://bitbucket.org/1771245847/tvbox/raw/main/tvbox.json"}
     ]
 }
+
 
 
 
